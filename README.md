@@ -1,6 +1,12 @@
 # Triumph - Strategy Game
 A 4 player turn-based strategy game made on Python 3 and Pygame, where the aim of the game is for a player to conquer all the land available in the map. 3 different maps with different sizes can be chosen, with the possibility of players to create more if they wish.
 
+## Maps
+- Small - 10x10
+- Medium - 15x15 (minimum 1080p display required)
+- Big - 20x20 (minimum 1440p display required)
+- Create your own by editing the map text files.
+
 ## Rules
 - All Players start with 10 gold each.
 - All units have 10hp
