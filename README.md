@@ -17,7 +17,23 @@ A 4 player turn-based strategy game made on Python 3 and Pygame, where the aim o
 - Win the game by being the team to own all other provinces, or if the opponents give up.
 
 ## Units
-- Infantry unit   - 2 gold per unit   - 1 damage  - 1 movement point - good for holding ground
-- Tank unit       - 20 gold per unit  - 5 damage  - 5 movement points - good for advancing and conquering new provinces
-- Bomber unit     - 30 gold per unit  - 5 damage  - 5 movement points - good for advancing and destroying ground units (only 1 damage to fighters)
-- Fighter unit    - 20 gold per unit  - 5 damage  - 5 movement points - good for destroying bombers
+- Infantry unit   
+  - 2 gold per unit   
+   - 1 damage  
+   - 1 movement point 
+   - good for holding ground
+- Tank unit       
+  - 20 gold per unit  
+  - 5 damage  
+  - 5 movement points 
+  - good for advancing and conquering new provinces
+- Bomber unit     
+  - 30 gold per unit  
+  - 5 damage  
+  - 5 movement points 
+  - good for advancing and destroying ground units (1 damage to fighters)
+- Fighter unit    
+  - 20 gold per unit  
+  - 5 damage  
+  - 5 movement points 
+  - good for destroying bombers
