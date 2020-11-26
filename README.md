@@ -6,6 +6,7 @@ A 4 player turn-based strategy game made on Python 3 and Pygame, where the aim o
 - All units have 10hp
 - Players earn gold equal to the amount of tiles their unit owns per turn.
 - The team's turn is indicated at the bottom.
+- Each tile has an outline relative to the team which owns it.
 - Select units from the right of the board.
 - Then after selecting, click on a tile that your unit owns to place there.
 - Each unit has different costs.
@@ -14,7 +15,7 @@ A 4 player turn-based strategy game made on Python 3 and Pygame, where the aim o
 - When your unit is adjacent to an enemy unit it can attack it by clicking on your unit then the enemy unit.
 - Ground (infantry and tanks) units are on a separate plane from Air (bomber and fighter) units, cannot attack each other except for the bomber unit.
 - Bomber is unique in that it can attack ground units by clicking the same tile it is on, twice.
-- Win the game by being the team to own all other provinces, or if the opponents give up.
+- Win the game by being the team to own all other tiles, or if the opponents give up.
 
 ## Units
 - Infantry unit   
