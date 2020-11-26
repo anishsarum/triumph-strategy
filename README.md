@@ -8,8 +8,10 @@ A 4 player turn-based strategy game made on Python 3 and Pygame, where the aim o
 - Create your own by editing the map text files.
 
 ## Rules
-- All Players start with 10 gold each.
-- All units have 10hp
+- 4 teams - Red, Blue, Yellow, Green (turns are in that order too).
+- All teams start with 10 gold each.
+- All units have 10hp.
+- Starting postions for each team randomised at the beginning.
 - Players earn gold equal to the amount of tiles their unit owns per turn.
 - The team's turn is indicated at the bottom.
 - Each tile has an outline relative to the team which owns it.
