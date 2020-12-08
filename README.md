@@ -1,11 +1,16 @@
 # Triumph - Strategy Game
 A 4 player turn-based strategy game made on Python 3 and Pygame, where the aim of the game is for a player to conquer all the land available in the map. 3 different maps with different sizes can be chosen, with the possibility of players to create more if they wish.
 
+## Instructions
+- To run the game, simply run the NEA.py file using Python 3.
+- e.g. `python3 NEA.py`
+
 ## Maps
 - Small - 10x10
 - Medium - 15x15 (minimum 1080p display required)
 - Big - 20x20 (minimum 1440p display required)
 - Create your own by editing the map text files.
+
 
 ## Rules
 - 4 teams - Red, Blue, Yellow, Green (turns are in that order too).
