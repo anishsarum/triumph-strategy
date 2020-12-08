@@ -2,7 +2,7 @@
 A 4 player turn-based strategy game made on Python 3 and Pygame, where the aim of the game is for a player to conquer all the land available in the map. 3 different maps with different sizes can be chosen, with the possibility of players to create more if they wish.
 
 ## Instructions
-- To run the game, simply run the NEA.py file using Python 3.
+- To run the game, simply ensure all the files are in the same folder and then run the NEA.py file using Python 3.
 - e.g. `python3 NEA.py`
 
 ## Maps
